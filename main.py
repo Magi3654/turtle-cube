@@ -1,11 +1,17 @@
+"""
+Practica 2025-02-11
+Dibujar un Cubo con Turtle
+No. Control 21760550
+Alumno: Ilse Paloma Machado Gonzalez
+Grupo: 8SE
+Materia: IA
+"""
+
+
 import turtle as t
 from random import random
 
-#for i in range(100):
- #   steps = int(random() * 100)
-  #  angle = int(random() * 360)
-   # t.right(angle)
-    #t.fd(steps)
+
 
 def DrawLine():
     for i in range (4):
