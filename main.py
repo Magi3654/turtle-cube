@@ -1,6 +1,6 @@
 """
 Practica 2025-02-11
-Dibujar un Cubo con Turtle
+Dibujar un Cubo con t
 No. Control 21760550
 Alumno: Ilse Paloma Machado Gonzalez
 Grupo: 8SE
@@ -8,7 +8,7 @@ Materia: IA
 """
 
 
-import turtle as t
+import t as t
 from random import random
 
 
